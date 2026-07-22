@@ -30,6 +30,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, yFinance
 - Parametric VaR underestimates risk during periods of elevated volatility and fat tails
 - Expected Shortfall captures extreme downside risk more effectively than VaR
 - Correlations increase significantly during a crisis, reducing diversification benefits
-- VaR vreaches exhibit clustering, highlighting volatility persistence and model limitations
+- VaR breaches exhibit clustering, highlighting volatility persistence and model limitations
 - Stress scenarios produce substantially higher tail losses than normal market conditions
 - Stress events cluster rather than occurring independently
