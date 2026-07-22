@@ -4,7 +4,7 @@
 This project develops a portfolio risk framework using Historical, Parametric, and Monte Carlo Value-at-Risk (VaR) models to evaluate tail risk under normal and stressed conditions. The analysis includes model validation, statistical diagnostics, and stress testing aligned with market risk management practices.
 
 ## Key Features
-- Constricted an equal-weight portfolio equity index, technology stock, and gold ETF data:
+- Constructed an equal-weight portfolio equity index, technology stock, and gold ETF data:
 - Implemented and compared
   - Historical VaR
   - Parametric (Variance-Covariance) VaR
